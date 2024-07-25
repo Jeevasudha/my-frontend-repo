@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { fetchData } from './api';
+import { fetchData } from '../api';
 import './SearchPage.css';
 
 const SearchPage = () => {
